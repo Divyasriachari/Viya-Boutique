@@ -62,6 +62,7 @@ I have thoroughly tested the application to ensure it meets all requirements and
 8. Login and Test: Log in to the application using the created credentials and test the functionality.
 
 **Final User Interface**
+
 ![1](https://github.com/divyasripoloju/Viya-Boutique/assets/139854201/f07227e1-1ac7-4c18-8b3c-b6d3410be885)
 ![2](https://github.com/divyasripoloju/Viya-Boutique/assets/139854201/a15202c7-e221-423b-ade2-9b898f82e50a)
 ![3](https://github.com/divyasripoloju/Viya-Boutique/assets/139854201/271d4efa-c4fd-47b6-92f3-a6f597e04de4)
