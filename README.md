@@ -61,4 +61,7 @@ I have thoroughly tested the application to ensure it meets all requirements and
 8. Front-end Setup: Launch the react folder which is there in front-end from vscode and running `npm i`command in terminal to install the json packages[**Note: Check whether node.js is already installed or not if not please install it**] .
 8. Login and Test: Log in to the application using the created credentials and test the functionality.
 
+**Final User Interface**
+
+
 
