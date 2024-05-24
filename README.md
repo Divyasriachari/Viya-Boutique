@@ -62,6 +62,21 @@ I have thoroughly tested the application to ensure it meets all requirements and
 8. Login and Test: Log in to the application using the created credentials and test the functionality.
 
 **Final User Interface**
+![1](https://github.com/divyasripoloju/Viya-Boutique/assets/139854201/f07227e1-1ac7-4c18-8b3c-b6d3410be885)
+![2](https://github.com/divyasripoloju/Viya-Boutique/assets/139854201/a15202c7-e221-423b-ade2-9b898f82e50a)
+![3](https://github.com/divyasripoloju/Viya-Boutique/assets/139854201/271d4efa-c4fd-47b6-92f3-a6f597e04de4)
+![4](https://github.com/divyasripoloju/Viya-Boutique/assets/139854201/a96a80ce-2909-4cf5-acaf-ee10aee21343)
+![5](https://github.com/divyasripoloju/Viya-Boutique/assets/139854201/6d568e14-ad00-4449-a70d-c8bbbbc1c16c)
+![6](https://github.com/divyasripoloju/Viya-Boutique/assets/139854201/1c92a05c-491e-41f3-a34f-afa936b1b895)
+![7](https://github.com/divyasripoloju/Viya-Boutique/assets/139854201/a4a0709c-5959-4a72-9ab3-a8d67ad87900)
+![8](https://github.com/divyasripoloju/Viya-Boutique/assets/139854201/f77d8f2a-c898-423e-b6a3-70da39434e91)
+![9](https://github.com/divyasripoloju/Viya-Boutique/assets/139854201/d3dc6521-091c-4fb9-8e55-3da40891ff4b)
+![10](https://github.com/divyasripoloju/Viya-Boutique/assets/139854201/e4fbfe4e-adfc-4867-9390-45db577d90d5)
+![11](https://github.com/divyasripoloju/Viya-Boutique/assets/139854201/eeca6b78-a77e-4742-8c5b-e38afa1f28b6)
+![12](https://github.com/divyasripoloju/Viya-Boutique/assets/139854201/5ee3f0a4-80b2-43e1-a9f1-b75b2d5241d5)
+![13](https://github.com/divyasripoloju/Viya-Boutique/assets/139854201/2d87a59c-2382-499d-aecd-99aa914a1937)
+![14](https://github.com/divyasripoloju/Viya-Boutique/assets/139854201/e60417f0-a014-481f-9f75-6793906f024a)
+![15](https://github.com/divyasripoloju/Viya-Boutique/assets/139854201/ba67ff72-deee-4cd0-bfcf-1b8fe2b1e91c)
 
 
 
